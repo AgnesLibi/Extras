@@ -1,0 +1,23 @@
+//java prgs
+https://www.programiz.com/java-programming/examples/power-number-recursion
+
+//Exception
+https://www.javainuse.com/spring/boot-exception-handling
+
+//Angular 
+https://angular.io/tutorial
+
+//SonarQube(Quality checking)
+https://www.sonarqube.org/
+
+//SpringBoot
+https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
+
+//css tricks
+https://css-tricks.com/tips-aligning-icons-text/
+
+//Agile methodology
+https://www.guru99.com/agile-scrum-extreme-testing.html
+
+//Spring Jars
+https://github.com/akashTrainer/Javascript
